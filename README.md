@@ -11,3 +11,8 @@ Ejecutar script
 
 1. uv run python <archivo_python.py>
 
+Ejecutar docker
+
+1. docker build -t test .
+
+2. docker run -it test
